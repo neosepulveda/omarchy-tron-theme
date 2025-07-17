@@ -1,0 +1,23 @@
+/* Tron Legacy Theme */
+window {
+  background-color: #0a0f1c;
+  color: #ffffff;
+}
+
+#input {
+  background-color: #1a2233;
+  color: #00fff7;
+  border: 2px solid #00fff7;
+  box-shadow: 0 0 8px #00fff7;
+}
+
+#entry:selected {
+  background-color: #00fff7;
+  color: #0a0f1c;
+  box-shadow: 0 0 8px #00fff7;
+}
+
+#entry {
+  color: #ffffff;
+  text-shadow: 0 0 5px #00fff7;
+}

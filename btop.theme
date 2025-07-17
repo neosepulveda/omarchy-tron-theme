@@ -1,0 +1,11 @@
+# Tron Legacy Theme for btop
+main_bg = "#0a0f1c"
+main_fg = "#ffffff"
+highlight = "#00fff7"
+selected_bg = "#1a2233"
+selected_fg = "#00fff7"
+progress_bar = "#00fff7"
+progress_bar_bg = "#1a2233"
+warning = "#ffe900"
+error = "#ff9900"
+frame = "#00fff7"
